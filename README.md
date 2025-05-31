@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋!  I am Asdi Amamence from the Philippines!</h2>
-<p align="center">I am a Computer Engineering student who is fascinated with programming — especially in the field of embedded systems.</p>
+<h2 align="center">👋Hey! I am Asdi, from the Philippines!</h2>
+<p align="center">Computer Engineer</p>
 
 ###
 
