@@ -58,8 +58,6 @@
 <h3 align="center">My snake🐍 is busy eating my greens!</h3>
 
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Asdi-Amz/Asdi-Amz/output/snake.svg" alt="Snake animation" />
 
 ###
