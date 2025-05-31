@@ -9,8 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://www.pinterest.com/pin/411375747208897865/"  />
-
 ###
 
 <div align="left">
