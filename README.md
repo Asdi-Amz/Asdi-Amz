@@ -11,7 +11,7 @@
 ###
 
 ###
-<h3 align="center">Technologies & Tools I use:</h3>
+<h3 align="center">Technologies & Tools I use</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -44,6 +44,7 @@
 </div>
 
 ###
+<h3 align="center">My Socials</h3>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -54,6 +55,8 @@
 </div>
 
 ###
+<h3 align="center">My snake🐍 is busy eating my greens!</h3>
+
 
 <br clear="both">
 
