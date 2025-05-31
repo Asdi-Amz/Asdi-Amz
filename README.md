@@ -1,4 +1,5 @@
 <h2 align="center">Hi 👋!  I am Asdi Amamence from the Philippines!</h2>
+<p align="center">I am a Computer Engineering student who is fascinated with programming — especially in the field of embedded systems.</p>
 
 ###
 
@@ -10,7 +11,7 @@
 ###
 
 ###
-<h1 align="center">Technologies & Tools I use:</h1>
+<h3 align="center">Technologies & Tools I use:</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
