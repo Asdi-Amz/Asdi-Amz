@@ -10,7 +10,7 @@
 ###
 
 ###
-<p align="center">🛠️ Technologies & Tools I use:</p>
+<h1 align="center">Technologies & Tools I use:</h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
