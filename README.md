@@ -1,5 +1,5 @@
 <h2 align="center">👋Hey! I am Asdi, from the Philippines!</h2>
-<p align="center">Computer Engineer</p>
+<p align="center">Computer Engineering Student</p>
 
 ###
 
