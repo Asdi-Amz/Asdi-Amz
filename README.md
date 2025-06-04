@@ -44,7 +44,7 @@
 </div>
 
 ###
-<h3 align="center">My Socials</h3>
+<h3 align="center">Visit my Socials</h3>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -56,7 +56,7 @@
 
 ###
 <h3 align="center">My snake🐍 is busy eating my greens!</h3>
-
+ 
 
 <img src="https://raw.githubusercontent.com/Asdi-Amz/Asdi-Amz/output/snake.svg" alt="Snake animation" />
 
